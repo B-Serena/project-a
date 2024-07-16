@@ -1,0 +1,1 @@
+print("Stock_PJT miniconda env 시작")
