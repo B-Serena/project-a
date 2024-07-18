@@ -1,0 +1,4072 @@
+[
+  {
+    "name": "[연세우유 x 마켓컬리] 전용목장우유 1.8L",
+    "price": "4,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "1000316128"
+  },
+  {
+    "name": "[요플레] 후루츠 플레이버 3종 (택1)",
+    "price": "3,780",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "5050280"
+  },
+  {
+    "name": "[상하목장] 아이스크림 초콜릿 474ml",
+    "price": "8,900",
+    "discount_rate": "34%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "1000357156"
+  },
+  {
+    "name": "[상하목장] 얼려먹는 아이스주스 망고",
+    "price": "6,380",
+    "discount_rate": "4%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "5070679"
+  },
+  {
+    "name": "[상하목장] 유기농 멸균 우유 바나나 125mL 2종",
+    "price": "4,580",
+    "discount_rate": "5%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "5034933"
+  },
+  {
+    "name": "[빙그레] 비비빅  8입 멀티",
+    "price": "5,800",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "5061734"
+  },
+  {
+    "name": "[덴마크] 구워먹는 치즈 오리지널 125g",
+    "price": "8,390",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "1000200860"
+  },
+  {
+    "name": "뽀로로가 좋아하는 초코우유 (140mL x 24개)",
+    "price": "18,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "1000021646"
+  },
+  {
+    "name": "[올드암스테르담] 고다 웻지 리저브 18개월 숙성",
+    "price": "10,900",
+    "discount_rate": "12%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "018",
+    "id": "1000303751"
+  },
+  {
+    "name": "[더 조선호텔] 냉감패드 & 냉감 차렵이불 5종 (택1)",
+    "price": "94,170",
+    "discount_rate": "27%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000454104"
+  },
+  {
+    "name": "[더 조선호텔] 릴리 차렵이불 그레이 3종(택1)",
+    "price": "270,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000048036"
+  },
+  {
+    "name": "[포렌] 하이퓨어 알러지케어 키즈 베개커버 5종 (택 1)",
+    "price": "28,800",
+    "discount_rate": "52%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000209732"
+  },
+  {
+    "name": "[보웰] 원더모달 100% 먼지없는 차렵이불세트 SS/Q 패턴 4종 (택1)",
+    "price": "125,000",
+    "discount_rate": "22%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000443303"
+  },
+  {
+    "name": "[샤이닝홈] 더블리 지젤체크 순면 차렵이불 SS/Q 24종 (택1)",
+    "price": "66,900",
+    "discount_rate": "62%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000373384"
+  },
+  {
+    "name": "[마틸라] 메리제인 셔링시어서커 여름 차렵이불세트 크림/화이트/그린 - 15종(택1)",
+    "price": "53,900",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000490505"
+  },
+  {
+    "name": "[마틸라] 썸머로맨스 스노우시어서커 여름 차렵이불세트 15종(택1)_그린/리본/체리",
+    "price": "53,900",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000497424"
+  },
+  {
+    "name": "[홈즈리빙] 자가쿨링토퍼 여름 쿨매트 4종 (택1)",
+    "price": "31,900",
+    "discount_rate": "46%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000368730"
+  },
+  {
+    "name": "[웨스트프롬] 에스메랄다 원목 사이드테이블 2종 (택1)",
+    "price": "89,900",
+    "discount_rate": "43%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000394261"
+  },
+  {
+    "name": "[웨스트프롬] 럭셔리 티크원목 우드슬랩(M) 테이블 (단품)",
+    "price": "69,900",
+    "discount_rate": "20%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000392807"
+  },
+  {
+    "name": "[아망떼] 콤팩트 60수 순면 침대패드 K1 8종 (택1)",
+    "price": "58,900",
+    "discount_rate": "7%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000416415"
+  },
+  {
+    "name": "[샤이닝홈] 마인 S10 10cm 순면 누빔 라텍스커버 6컬러 3종 (택1)",
+    "price": "46,900",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000342543"
+  },
+  {
+    "name": "[스피아노] 에바 장스탠드 SS-3200F (화이트)",
+    "price": "39,900",
+    "discount_rate": "35%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000452788"
+  },
+  {
+    "name": "[샤이닝홈] 더블리 케어 알러지프리 항균 침대 스커트 Q 5종 (택1)",
+    "price": "39,900",
+    "discount_rate": "34%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000325427"
+  },
+  {
+    "name": "[시즈닝 오브제] 머쉬룸 키링 블랙",
+    "price": "39,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000494408"
+  },
+  {
+    "name": "[밝히는가온] LED 센서등 애니탁 6종 (택1)",
+    "price": "9,900",
+    "discount_rate": "37%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000585880"
+  },
+  {
+    "name": "[샤이닝홈] 아밍 엘핀 60수 워싱 아사면 프릴 베개커버 40x60 3종 (택1)",
+    "price": "23,900",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000507798"
+  },
+  {
+    "name": "[마켓비] 쿠르쿨 시어서커 여름 홑이불 슈퍼싱글 7종 (택1)",
+    "price": "12,700",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000421062"
+  },
+  {
+    "name": "[홈에드] 주방 홈카페 앞치마 골라담기 7종 (택1)",
+    "price": "14,900",
+    "discount_rate": "48%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000442834"
+  },
+  {
+    "name": "[더러그]크림 소파패드 차콜 3종 (택1)",
+    "price": "19,000",
+    "discount_rate": "23%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000432553"
+  },
+  {
+    "name": "[샤이닝홈] 무블 스웨이드 더라인 커플용 슬리퍼 거실화 6종 (택1)",
+    "price": "9,990",
+    "discount_rate": "37%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000326229"
+  },
+  {
+    "name": "[코즈코즈] 프로즌 쿨매트, 베개커버, 칠링버디 바디필로우 12종 (택1)",
+    "price": "9,900",
+    "discount_rate": "50%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000645704"
+  },
+  {
+    "name": "[마틸라] 세이브 M2 알러지케어 SS/Q/K 차렵이불-아이보리 5종(택1)",
+    "price": "63,900",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000369390"
+  },
+  {
+    "name": "[USM 공식수입원] USM Haller 유에스엠 할라 테이블",
+    "price": "2,513,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000654228"
+  },
+  {
+    "name": "[장미맨숀] 메이 원목 윈저 의자",
+    "price": "93,600",
+    "discount_rate": "48%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000639612"
+  },
+  {
+    "name": "[마켓비] SIMPLIE 책상 BC141 2종(택1)",
+    "price": "309,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000415985"
+  },
+  {
+    "name": "[마스슬립] 로웰 천연가죽 헤드레스트 침대프레임 4종 (택1)",
+    "price": "3,150,000",
+    "discount_rate": "6%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000259851"
+  },
+  {
+    "name": "[메리토] 오즈 라지 OZ(L) 감성 LED 인테리어 터치식 플리커프리 조명",
+    "price": "149,000",
+    "discount_rate": "31%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000585867"
+  },
+  {
+    "name": "[마켓비] VANONG 단스탠드 E26 KS2477T 4630.8629",
+    "price": "63,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000430291"
+  },
+  {
+    "name": "[스피아노] 아이비 단스탠드 SS-3490S 2종 (택1)",
+    "price": "29,900",
+    "discount_rate": "25%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000435600"
+  },
+  {
+    "name": "[샤이닝홈] 아밍 다소니 모달 간절기이불 S 2종 (택1)",
+    "price": "106,900",
+    "discount_rate": "41%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000432211"
+  },
+  {
+    "name": "[아망떼] 허니듀 시어서커 리플 체크 차렵이불패드세트Q 5종 (택1)",
+    "price": "88,900",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000614456"
+  },
+  {
+    "name": "[마틸라] 허그미 먼지없는 SS/Q/K 차렵이불-팝콘플라워 5종(택1)",
+    "price": "52,900",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000380387"
+  },
+  {
+    "name": "[플로라] 모닝블루 차렵이불 단품 및 세트 SS/Q/K/EK 8종 (택1)",
+    "price": "59,900",
+    "discount_rate": "47%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000419039"
+  },
+  {
+    "name": "[샤이닝홈] 아밍 리아쥬 모달 간절기 침대패드 4종 (택1)",
+    "price": "65,900",
+    "discount_rate": "37%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000432404"
+  },
+  {
+    "name": "[샤이닝홈] 아밍 에디스 착번 5mm 극세사 차렵이불 S 4종 (택1)",
+    "price": "64,900",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000326063"
+  },
+  {
+    "name": "[더 조선호텔] 드림 경추 구스 베개",
+    "price": "279,000",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000105444"
+  },
+  {
+    "name": "[포빠페드레띠] 스프린트 접이식 트롤리 (단품)",
+    "price": "680,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "019",
+    "id": "1000331424"
+  },
+  {
+    "name": "[덴프스] 덴마크 유산균이야기 (60일분)",
+    "price": "30,900",
+    "discount_rate": "66%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "5097886"
+  },
+  {
+    "name": "[라이블링] 애플사이다비니거 옐로우구미 60개입",
+    "price": "20,900",
+    "discount_rate": "47%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000489842"
+  },
+  {
+    "name": "[제월당] 변석홍옥고 정일품 600g",
+    "price": "280,000",
+    "discount_rate": "30%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000025040"
+  },
+  {
+    "name": "[안국건강] 안심 엽산800 180정 (180일분)",
+    "price": "27,000",
+    "discount_rate": "40%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "5086561"
+  },
+  {
+    "name": "[선물세트] 몸애쏙쏙 유기농 의성흑마늘 진액 2종",
+    "price": "57,950",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "5045471"
+  },
+  {
+    "name": "[비거너리] 식물성 콜라겐 3270mg (샤인머스캣) 2종 (택1)",
+    "price": "23,900",
+    "discount_rate": "31%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000317058"
+  },
+  {
+    "name": "[일양약품] 비타민C&D 1000 (100일분)",
+    "price": "11,900",
+    "discount_rate": "52%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000352947"
+  },
+  {
+    "name": "[메이준뉴트리 X 이승남원장] 더블액션 프리바이오틱스 플러스 (30일분)",
+    "price": "10,850",
+    "discount_rate": "69%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "5112550"
+  },
+  {
+    "name": "[종근당건강] 아임비타 비타민B 컴플렉스 1박스 (2개월분)",
+    "price": "32,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000154412"
+  },
+  {
+    "name": "[종근당건강] 락토조이 오늘비움 스트롱 6개입",
+    "price": "21,900",
+    "discount_rate": "29%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000086338"
+  },
+  {
+    "name": "[딥트 3일] 올케어 3일 프로그램 (26포)",
+    "price": "42,900",
+    "discount_rate": "38%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000210441"
+  },
+  {
+    "name": "무안 순수 양파즙 30포 2종",
+    "price": "6,400",
+    "discount_rate": "53%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000331395"
+  },
+  {
+    "name": "[자임] 100% 발효노니",
+    "price": "9,900",
+    "discount_rate": "23%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "032",
+    "id": "1000224362"
+  },
+  {
+    "name": "[발뮤다] 그린팬S 화이트그레이 EGF-1800",
+    "price": "469,000",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000620172"
+  },
+  {
+    "name": "[브레빌] 올인원 반자동 커피머신 BES870 실버",
+    "price": "1,099,000",
+    "discount_rate": "6%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000084153"
+  },
+  {
+    "name": "[LG전자] 통돌이 세탁기 T17MX3A(4주이상 배송지연)",
+    "price": "545,200",
+    "discount_rate": "13%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000134868"
+  },
+  {
+    "name": "[공식대리점]아이큐에어 V5-Cell 활성탄소 필터 HP250/HP250-EE 장착 (단품)",
+    "price": "275,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000444161"
+  },
+  {
+    "name": "[필립스] 소닉케어 무선 파워플로서 3000 블랙 HX3826/33 (HX3826/33)",
+    "price": "119,000",
+    "discount_rate": "42%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000244384"
+  },
+  {
+    "name": "[이오시카] IPL 제모의료기기 500K SIPL-2000B",
+    "price": "169,000",
+    "discount_rate": "29%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000461547"
+  },
+  {
+    "name": "[위닉스] 공기청정기 타워엣지 컴팩트 AT5M200-MWK (단품)",
+    "price": "154,000",
+    "discount_rate": "8%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000387712"
+  },
+  {
+    "name": "[보만] 저소음 글래스팝 유리 에어프라이어 4L AF41EG1I",
+    "price": "109,000",
+    "discount_rate": "39%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000180765"
+  },
+  {
+    "name": "[벨킨] 65W 듀얼 USB-C타입 PPS GaN 고속 충전기 WCH013kr",
+    "price": "59,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000210686"
+  },
+  {
+    "name": "[신지모루] 갤럭시 풀커버 PET 강화 액정보호필름 2매",
+    "price": "6,900",
+    "discount_rate": "22%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000529629"
+  },
+  {
+    "name": "[제니퍼룸] 포터블 전동 커피그라인더",
+    "price": "42,900",
+    "discount_rate": "28%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000272563"
+  },
+  {
+    "name": "[테팔] 컴팩트 토스터 TT310NKR",
+    "price": "49,900",
+    "discount_rate": "21%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000517377"
+  },
+  {
+    "name": "[오아]퓨어필워터B 휴대용 무선 구강세정기 치아세정기 물치실",
+    "price": "39,900",
+    "discount_rate": "11%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000316449"
+  },
+  {
+    "name": "[LG전자] LG 틔운용 씨앗키트 패키지 LPF12",
+    "price": "37,000",
+    "discount_rate": "15%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000479160"
+  },
+  {
+    "name": "[윈세프] 헤어드라이어 WTH-1620B,W",
+    "price": "26,900",
+    "discount_rate": "15%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000245153"
+  },
+  {
+    "name": "[무아스] 플랫우드 무소음 벽시계 3sizes",
+    "price": "15,900",
+    "discount_rate": "15%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000315631"
+  },
+  {
+    "name": "[필립스] 보풀 제거기 GCA2100/20 (단일상품)",
+    "price": "26,800",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000317584"
+  },
+  {
+    "name": "[벨킨] 부스트업 USB-C타입 충전 케이블 15CM CAB001bt0M",
+    "price": "11,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000244703"
+  },
+  {
+    "name": "[LG전자]LG 울트라 HD TV 스탠드형/벽걸이형 55UT9300KNA",
+    "price": "1,478,300",
+    "discount_rate": "4%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000635633"
+  },
+  {
+    "name": "[LG전자] LG 틔운용 씨앗키트 홀더 LHE01",
+    "price": "30,800",
+    "discount_rate": "15%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000479146"
+  },
+  {
+    "name": "[드롱기] 라 스페셜리스타 프레스티지오 홈 바리스타 커피머신 KREC9355.M",
+    "price": "1,790,000",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000000350"
+  },
+  {
+    "name": "인사이디 전동 벨트 마사지건 어깨마사지기 허리 복부 덜덜이 다리 지압 마사지 IMG-500 (단일옵션)",
+    "price": "39,900",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000365407"
+  },
+  {
+    "name": "[LG전자]LG 올레드 evo TV 스탠드형/벽걸이형 OLED83G4KNA",
+    "price": "12,039,700",
+    "discount_rate": "7%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000635578"
+  },
+  {
+    "name": "[윈세프] 빌트인 2구 하이라이트 WH-302G1S (하이라이트 WH-302G1S)",
+    "price": "149,000",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000245159"
+  },
+  {
+    "name": "[보국] 에어셀 전기요 3종 택 1",
+    "price": "99,000",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000257013"
+  },
+  {
+    "name": "[르젠] 24년 신형 스팀 가열식 가습기 LZHD-930Y (화이트)",
+    "price": "139,000",
+    "discount_rate": "22%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000304605"
+  },
+  {
+    "name": "[드비알레] 디온 하이엔드 사운드바 DEVIALET DIONE (BLACK)",
+    "price": "3,790,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000314743"
+  },
+  {
+    "name": "[테팔] 엘리트 스튜디오 드라이 HV5372K0 (단품 )",
+    "price": "31,900",
+    "discount_rate": "25%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000390483"
+  },
+  {
+    "name": "[제스파] 컴포르테 안마의자 전용 러그 포함 5종 ZPC2033",
+    "price": "1,590,000",
+    "discount_rate": "45%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000490624"
+  },
+  {
+    "name": "[삼성전자] 비스포크 AI 콤보 WD25DB8995BC 25kg+15kg 화이트 (WD25DB8995BC)",
+    "price": "3,799,000",
+    "discount_rate": "5%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000556703"
+  },
+  {
+    "name": "[필립스] 초고속 블렌더/믹서기 5000시리즈 HR3571/90 (단일상품)",
+    "price": "162,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "085",
+    "id": "1000215795"
+  },
+  {
+    "name": "[그래놀라 하우스] 그래놀라 5종 (택1) ",
+    "price": "13,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5063596"
+  },
+  {
+    "name": "[마이노멀] 알룰로스 초코볼 2종 (택1)",
+    "price": "11,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000541139"
+  },
+  {
+    "name": "[어니스트그릭] 코코넛 그릭요거트 100g (비건)",
+    "price": "5,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000094253"
+  },
+  {
+    "name": "[하겐다즈] 피에르 에르메 파인트 아이스크림 403mL 4종 (택1)",
+    "price": "11,900",
+    "discount_rate": "23%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000156853"
+  },
+  {
+    "name": "[서울카스테라] 카스테라 러스크 70g",
+    "price": "4,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000567956"
+  },
+  {
+    "name": "[빙그레] 비비빅  8입 멀티",
+    "price": "5,800",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5061734"
+  },
+  {
+    "name": "[DJ&A] 포테이토 웨지 2종 (택1)",
+    "price": "8,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000526148"
+  },
+  {
+    "name": "[스톡] 크노퍼스 웨이퍼 미니 9.6g X 20입",
+    "price": "7,680",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000499715"
+  },
+  {
+    "name": "[롯데] 크런키 팔각 빼빼로 140g",
+    "price": "5,280",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5086557"
+  },
+  {
+    "name": "[하와이안호스트] 파운더스 컬렉션 밀크 99g (마카다미아 초콜릿)",
+    "price": "9,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000127497"
+  },
+  {
+    "name": "[레더라] 파베 (6개입)",
+    "price": "21,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5010641"
+  },
+  {
+    "name": "[교아당] 쫀득한 수제강정 2종 (택1)",
+    "price": "8,800",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5043920"
+  },
+  {
+    "name": "[두레촌]명인이 만든 우리쌀 엿 2종",
+    "price": "3,700",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "5056007"
+  },
+  {
+    "name": "[오리온] 초코칩쿠키 256g",
+    "price": "2,793",
+    "discount_rate": "3%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000640850"
+  },
+  {
+    "name": "[심플리7] 베지터블칩 4종 (택1)",
+    "price": "4,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000365972"
+  },
+  {
+    "name": "[선물세트] 도쿄밀크치즈팩토리 솔트&허니 어쏘티드 세트",
+    "price": "48,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "249",
+    "id": "1000166135"
+  },
+  {
+    "name": "[폴 바셋] 콜드브루 에스프레소 원액 300mL",
+    "price": "18,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "1000181125"
+  },
+  {
+    "name": "[폴 바셋] 바리스타 락토프리 카페라떼 스위트 (12개입)",
+    "price": "32,300",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "1000171552"
+  },
+  {
+    "name": "[초록원] 유기농 매실 엑기스 660g",
+    "price": "19,800",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "5137084"
+  },
+  {
+    "name": "[지유명차] 지유소타차 & 지유소방전",
+    "price": "15,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "5003256"
+  },
+  {
+    "name": "[카누] 캡슐 커피 디카페인 (카누머신 전용)",
+    "price": "7,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "1000228287"
+  },
+  {
+    "name": "[UCC] 콜드브루 블랙 커피 (500mL X 4입)",
+    "price": "7,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "5155585"
+  },
+  {
+    "name": "[차합시다] 양평 수제 쌍화차 골드",
+    "price": "25,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "5067813"
+  },
+  {
+    "name": "[칼리타] 동 포트 900 (단품)",
+    "price": "260,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383",
+    "id": "1000308789"
+  },
+  {
+    "name": "[KF365] 다다기오이 3입",
+    "price": "2,990",
+    "discount_rate": "14%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "5054657"
+  },
+  {
+    "name": "친환경 미니 밤호박 (보짱)",
+    "price": "2,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "5003440"
+  },
+  {
+    "name": "콜리플라워 200g",
+    "price": "4,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "5113033"
+  },
+  {
+    "name": "오븐에 구운 고구마 말랭이 150g",
+    "price": "5,290",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "5061790"
+  },
+  {
+    "name": "친환경 호박잎 200g",
+    "price": "3,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "1000621591"
+  },
+  {
+    "name": "친환경 로메인 2종",
+    "price": "1,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907",
+    "id": "5071164"
+  },
+  {
+    "name": "[KF365] 당도선별 수박 7kg 이상",
+    "price": "19,900",
+    "discount_rate": "21%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "5026059"
+  },
+  {
+    "name": "더라이스 골든퀸 3호 쌀 4kg",
+    "price": "24,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "5123054"
+  },
+  {
+    "name": "[그린너트] 호두 1kg",
+    "price": "16,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "1000045480"
+  },
+  {
+    "name": "냉동 석류 1kg (터키산)",
+    "price": "10,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 터키",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "5069699"
+  },
+  {
+    "name": "[그린너트] 점보건포도 500g",
+    "price": "8,200",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "1000045458"
+  },
+  {
+    "name": "[머거본] 커피땅콩 300g",
+    "price": "4,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "5128462"
+  },
+  {
+    "name": "유기농 참외 1kg (3~5입)",
+    "price": "12,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908",
+    "id": "5035692"
+  },
+  {
+    "name": "[압구정주꾸미] 주꾸미 볶음 2종 (택1)",
+    "price": "6,500",
+    "discount_rate": "26%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000185200"
+  },
+  {
+    "name": "[만선] 손질 전복살 3종 (택1) (냉동)",
+    "price": "18,600",
+    "discount_rate": "7%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000165825"
+  },
+  {
+    "name": "[바른생선] 가자미 커틀릿 & 레몬마요소스",
+    "price": "8,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "5074146"
+  },
+  {
+    "name": "[만선] 손질 꽁치 300g (4마리) (냉장)",
+    "price": "9,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000086232"
+  },
+  {
+    "name": "[만선] 국산 참소라 500g (생물)",
+    "price": "18,400",
+    "discount_rate": "7%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000176707"
+  },
+  {
+    "name": "[강릉상회] 속살담은 손질 황태채 200g",
+    "price": "13,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000118074"
+  },
+  {
+    "name": "[바다숲] 뿌려먹는 감태랑 해물이랑 20g",
+    "price": "4,800",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "5063765"
+  },
+  {
+    "name": "[주전부리마켓] 추억의 기차역 전기구이오징어",
+    "price": "4,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000240664"
+  },
+  {
+    "name": "[한양식품] 꽃보다 오다리 130g",
+    "price": "10,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000240775"
+  },
+  {
+    "name": "[김정배명인] 양념새우젓 150g",
+    "price": "4,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909",
+    "id": "1000271155"
+  },
+  {
+    "name": "[다향오리] 훈제오리 슬라이스 (1입/3입)",
+    "price": "12,310",
+    "discount_rate": "12%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5155301"
+  },
+  {
+    "name": "[Kurly's] 동물복지 유정란 15구",
+    "price": "6,361",
+    "discount_rate": "18%",
+    "origin": "원산지:  국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5029849"
+  },
+  {
+    "name": "[Kurly's] 동물복지 반숙란 20구",
+    "price": "11,700",
+    "discount_rate": "10%",
+    "origin": "원산지: 상세페이지 별도 표기",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5041773"
+  },
+  {
+    "name": "[가농바이오] 단백이",
+    "price": "7,004",
+    "discount_rate": "22%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "1000507238"
+  },
+  {
+    "name": "[Kurly's] 1++ 한우 안심 구이 250g (냉장)",
+    "price": "44,900",
+    "discount_rate": "18%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "1000433111"
+  },
+  {
+    "name": "[고기반찬] 고추장 삼겹 구이 300g",
+    "price": "7,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5114966"
+  },
+  {
+    "name": "[고기반찬] 매실 양념 소불고기 300g",
+    "price": "10,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상세페이지 별도 표기",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5104165"
+  },
+  {
+    "name": "[존쿡 델리미트] 목살 베이컨 150g",
+    "price": "4,380",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상세페이지 별도 표기",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "5034010"
+  },
+  {
+    "name": "[소금집] 트러플 소시송 70g",
+    "price": "9,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "1000094191"
+  },
+  {
+    "name": "[백설] 한입쏙비엔나120GX3",
+    "price": "5,480",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명 / 상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910",
+    "id": "1000227270"
+  },
+  {
+    "name": "[사미헌] 갈비탕",
+    "price": "13,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5026468"
+  },
+  {
+    "name": "[청해두부] 토종콩 두부 & 순두부 (2개입) (택1)",
+    "price": "6,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5001673"
+  },
+  {
+    "name": "[Kurly's] 탱글탱글 국탕용 종합 어묵",
+    "price": "4,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5075513"
+  },
+  {
+    "name": "[마니커F&G] 옛날통닭 바사삭치킨 14조각",
+    "price": "9,260",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5054268"
+  },
+  {
+    "name": "[톰볼라] 시금치 라자냐",
+    "price": "24,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5044301"
+  },
+  {
+    "name": "[진실된손맛] 소고기 샤브탕",
+    "price": "7,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5097094"
+  },
+  {
+    "name": "[프레시지] 듬뿍담은 얼큰 칼제비",
+    "price": "9,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000052893"
+  },
+  {
+    "name": "[풀무원] 우리아이 홍시 깍두기 300g",
+    "price": "3,480",
+    "discount_rate": "12%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5156511"
+  },
+  {
+    "name": "[동원]맛참 고소참기름 135g*4",
+    "price": "11,480",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000270149"
+  },
+  {
+    "name": "[고래사] 고래틴 고단백 소시지",
+    "price": "6,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "5128425"
+  },
+  {
+    "name": "[양수면옥] 한우 냉이 된장찌개",
+    "price": "8,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000136406"
+  },
+  {
+    "name": "[모두의맛집] 왕푸징 마라탕",
+    "price": "15,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000235788"
+  },
+  {
+    "name": "[솔가원] 한돈 떡갈비",
+    "price": "6,900",
+    "discount_rate": "22%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000237408"
+  },
+  {
+    "name": "[호텔컬렉션] 한우 사골고기곰탕",
+    "price": "8,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000431406"
+  },
+  {
+    "name": "[삼진어묵] 어묵 크로켓 3종",
+    "price": "10,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000023280"
+  },
+  {
+    "name": "[조선호텔] 한우 나주식 곰탕 600g",
+    "price": "8,188",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000052923"
+  },
+  {
+    "name": "[집반찬연구소] 들깨고구마줄기 볶음",
+    "price": "5,200",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000093742"
+  },
+  {
+    "name": "[삼진어묵]야채 진짜 많은 도톰네모 (2개입)",
+    "price": "4,800",
+    "discount_rate": "20%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "911",
+    "id": "1000613516"
+  },
+  {
+    "name": "[온더고] 싱카이 삼선짜장면 300g",
+    "price": "5,500",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000650505"
+  },
+  {
+    "name": "[하림]도넛치킨 치즈콕콕",
+    "price": "9,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000527171"
+  },
+  {
+    "name": "[풀무원] 고기지짐만두 300g*2",
+    "price": "4,980",
+    "discount_rate": "16%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000443722"
+  },
+  {
+    "name": "[존쿡델리미트] 베이글 샌드위치 2종",
+    "price": "4,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000365756"
+  },
+  {
+    "name": "[빕스] 라자냐",
+    "price": "10,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5083803"
+  },
+  {
+    "name": "[고메] 함박스테이크",
+    "price": "8,682",
+    "discount_rate": "13%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5006329"
+  },
+  {
+    "name": "[사세] 버팔로 윙봉 골드",
+    "price": "10,900",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000347942"
+  },
+  {
+    "name": "[갤러리아 고메이494] 도원 중화 짜장",
+    "price": "5,580",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5060363"
+  },
+  {
+    "name": "[쮸즈] 탄탄면",
+    "price": "6,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5071488"
+  },
+  {
+    "name": "[하인즈] 골든 프렌치 프라이 907g",
+    "price": "9,180",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5114892"
+  },
+  {
+    "name": "[한만두] 삼색찬란한 물만두 315gx2",
+    "price": "8,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5151995"
+  },
+  {
+    "name": "[프레시지] 듬뿍담은 어묵탕",
+    "price": "8,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000052911"
+  },
+  {
+    "name": "[나가타니엔] 오토나노 후리카케 미니 29.2g (20개입)",
+    "price": "4,600",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5133990"
+  },
+  {
+    "name": "[어리틀빗] 웜그레인 샐러드 4종 (택1)",
+    "price": "6,700",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000243875"
+  },
+  {
+    "name": "[프레시지] 사천식 마라샹궈 밀키트",
+    "price": "14,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5062939"
+  },
+  {
+    "name": "[정미경키친] 감자샐러드",
+    "price": "5,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "5035807"
+  },
+  {
+    "name": "[도제] 리코타 치즈 알밤 산도",
+    "price": "6,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912",
+    "id": "1000210505"
+  },
+  {
+    "name": "[데체코] 엑스트라버진 올리브 오일 500mL",
+    "price": "25,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5000325"
+  },
+  {
+    "name": "[솔리몬] 레몬즙 280ml (레몬원액 99.9%)",
+    "price": "3,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 스페인",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5026368"
+  },
+  {
+    "name": "[카페마마스] 마녀스프 2개입",
+    "price": "8,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000145877"
+  },
+  {
+    "name": "[남향푸드] 우리밀 또띠아 (냉동)",
+    "price": "6,200",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5003327"
+  },
+  {
+    "name": "[허브&스파이스마켓] 국내산 생강가루",
+    "price": "8,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5066719"
+  },
+  {
+    "name": "[동원]DHA 참치 250g",
+    "price": "3,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000270153"
+  },
+  {
+    "name": "[타이시아]  피넛 월남쌈소스 175g",
+    "price": "3,480",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5041688"
+  },
+  {
+    "name": "[삼양] 까르보불닭볶음면 소컵 6입",
+    "price": "7,250",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5097309"
+  },
+  {
+    "name": "[백설] 물엿1.2kg",
+    "price": "4,480",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000336816"
+  },
+  {
+    "name": "[이금기] 치킨파우더 273G",
+    "price": "7,110",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5134052"
+  },
+  {
+    "name": "[진미] 태양초고추장 500g",
+    "price": "3,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5156547"
+  },
+  {
+    "name": "[나바리노 아이콘즈] 그리스 디저트 토마토 스푼스위츠 ",
+    "price": "15,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000272511"
+  },
+  {
+    "name": "[한생]  바로담아 국산 생들기름",
+    "price": "21,480",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000310326"
+  },
+  {
+    "name": "[해초랑] 밥에 뿌려먹고 비벼먹는 톳",
+    "price": "10,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "5053571"
+  },
+  {
+    "name": "[차오차이] 트러플고기짜장 180g",
+    "price": "2,580",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000438806"
+  },
+  {
+    "name": "[해찬들] 고기찍어먹는장 찍장 매콤 쌈장 300g",
+    "price": "3,143",
+    "discount_rate": "30%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000397144"
+  },
+  {
+    "name": "[히게타] 텐동소스(튀김덮밥용 소스)",
+    "price": "6,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000273942"
+  },
+  {
+    "name": "[히게타] 돈까스 덮밥소스(타레가츠동 소스)",
+    "price": "6,890",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000273940"
+  },
+  {
+    "name": "[타이] 헤리티지 코코넛크림 400ml",
+    "price": "3,490",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000552290"
+  },
+  {
+    "name": "금사하 도삭면 500g",
+    "price": "3,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000570285"
+  },
+  {
+    "name": "[라이틀리] 곤약물냉면 880g (2인분)",
+    "price": "5,520",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000638441"
+  },
+  {
+    "name": "[라보니시마] 모데나  발사믹 블루라벨 (High Density)",
+    "price": "98,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000170435"
+  },
+  {
+    "name": "[비비드키친] 저당 짬뽕소스",
+    "price": "3,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "913",
+    "id": "1000426812"
+  },
+  {
+    "name": "[하이트진로] 토닉워터 (300mL X 6개)",
+    "price": "4,990",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "914",
+    "id": "1000637316"
+  },
+  {
+    "name": "[제주랑] 천혜향 감귤주스 320mL",
+    "price": "3,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "914",
+    "id": "1000107698"
+  },
+  {
+    "name": "[산펠레그리노] 탄산음료 4종 (330mL X 4입) (택1)",
+    "price": "7,660",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "914",
+    "id": "5136311"
+  },
+  {
+    "name": "[나탈리스] 프리미엄 착즙 오렌지 주스 2종 (택1)",
+    "price": "3,600",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "914",
+    "id": "5035425"
+  },
+  {
+    "name": "[광동] 비타500",
+    "price": "6,790",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "914",
+    "id": "5132773"
+  },
+  {
+    "name": "[도제] 촉촉한 생식빵 2종 (택1)",
+    "price": "4,893",
+    "discount_rate": "30%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "5109945"
+  },
+  {
+    "name": "[파스키에] 브리오슈 스틱 브레드 2종 (6개입) (택1)",
+    "price": "5,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "5054038"
+  },
+  {
+    "name": "[블랑제리코팡] 바게트 샌드위치",
+    "price": "5,300",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "5067010"
+  },
+  {
+    "name": "[나폴레옹] 오렌지파운드",
+    "price": "19,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000341310"
+  },
+  {
+    "name": "[달롤] 글루텐프리 녹차 롤케이크 2종 (택1)",
+    "price": "21,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000428262"
+  },
+  {
+    "name": "[Picard] 미니 버터 크로와상",
+    "price": "8,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000124118"
+  },
+  {
+    "name": "[삼립]YAAM! 치즈후레쉬팡(5입) 700g",
+    "price": "8,400",
+    "discount_rate": "20%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000471043"
+  },
+  {
+    "name": "[브레댄코] 꿀 고구마 케이크",
+    "price": "32,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000330139"
+  },
+  {
+    "name": "[브레드이발소] 달콤한 쁘띠 크룽지 (8개입)",
+    "price": "12,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000204349"
+  },
+  {
+    "name": "[타르틴베이커리] 올리브 푸가스",
+    "price": "8,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "1000196053"
+  },
+  {
+    "name": "[오가닉밸류] 유기농 아가베시럽 프리미엄 660g",
+    "price": "12,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "915",
+    "id": "5161494"
+  },
+  {
+    "name": "[실리팟] 프리미엄 실리콘 보관 지퍼백 (용량 4종 택1)",
+    "price": "10,900",
+    "discount_rate": "63%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000478202"
+  },
+  {
+    "name": "[바겐슈타이거] 스텐 뚜껑 사각&원형 트레이 11종 (택1)",
+    "price": "11,120",
+    "discount_rate": "51%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000444541"
+  },
+  {
+    "name": "[스타우브] 타원형 꼬꼬떼 냄비 23cm 그레이",
+    "price": "300,000",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5093391"
+  },
+  {
+    "name": "[마카토] 아틀라스 180 제면기 실버클래식 (단품)",
+    "price": "218,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000428107"
+  },
+  {
+    "name": "[스칸팬] 명품 코팅팬 CTX 프라이팬 5종 택1",
+    "price": "165,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000492510"
+  },
+  {
+    "name": "[글로벌] 찹&슬라이스 중식도",
+    "price": "189,000",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5088247"
+  },
+  {
+    "name": "[락앤락] 데일리 쇼퍼 보냉백/쿨러백 7/16L 4종 (택1)",
+    "price": "17,900",
+    "discount_rate": "26%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000568640"
+  },
+  {
+    "name": "[킨토] 카코미 도나베-2.5L 블랙",
+    "price": "215,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000222751"
+  },
+  {
+    "name": "[조셉조셉] 엘리베이트 뉴 나이프 5p 블록 세트 세이지에디션",
+    "price": "120,000",
+    "discount_rate": "42%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5110134"
+  },
+  {
+    "name": "[코렐] 스누피더플레이 2인 12P",
+    "price": "128,610",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000040649"
+  },
+  {
+    "name": "[빌레로이앤보흐] 디자인나이프 웨딩 5종 (택1)",
+    "price": "77,500",
+    "discount_rate": "38%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000397217"
+  },
+  {
+    "name": "[비스타알레그레] 허벌리아 디저트접시 6종 (택1)",
+    "price": "67,900",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000227738"
+  },
+  {
+    "name": "[부가티] 리나스 한식 수저&젓가락 10종 (택1)",
+    "price": "35,000",
+    "discount_rate": "31%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000525026"
+  },
+  {
+    "name": "[디앤디} 로마 한식 양식 커트러리 세트 모음전 4종 (택1)",
+    "price": "25,900",
+    "discount_rate": "56%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000535382"
+  },
+  {
+    "name": "[알레시] 스낵 박스 라이트 블루 (라이트 블루)",
+    "price": "99,000",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000226944"
+  },
+  {
+    "name": "[빌레로이앤보흐] 뉴문 볼 모음전 (택1)",
+    "price": "26,600",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000318330"
+  },
+  {
+    "name": "[제니아테일러] 스트라이프 시리얼보울&컵 8종 (택1)",
+    "price": "7,200",
+    "discount_rate": "60%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000176520"
+  },
+  {
+    "name": "[네오플램] New FIKA IH 웍 26cm (단일품목)",
+    "price": "37,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000286341"
+  },
+  {
+    "name": "[시라쿠스] 로렐 디너접시 26cm 2종 택1",
+    "price": "35,000",
+    "discount_rate": "26%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000215419"
+  },
+  {
+    "name": "[네오플램] New FIKA IH 양수 냄비 26cm (단일품목)",
+    "price": "53,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000410995"
+  },
+  {
+    "name": "[까사니] 통3중 IH 사각와이드팬 (단품)",
+    "price": "33,300",
+    "discount_rate": "25%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000423978"
+  },
+  {
+    "name": "[하리오] V60 플라스틱 드리퍼& 종이필터 세트",
+    "price": "8,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000464643"
+  },
+  {
+    "name": "[디앤디] 로마 한식기 2인세트 7종 (택1)",
+    "price": "57,900",
+    "discount_rate": "50%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000334580"
+  },
+  {
+    "name": "[크리스텔] STRATE 플랫 글라스리드 8종 (택1)",
+    "price": "44,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000445361"
+  },
+  {
+    "name": "[놋담] 방짜유기 주니어 수저",
+    "price": "27,000",
+    "discount_rate": "55%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000391716"
+  },
+  {
+    "name": "[실리만] 하모니 세척솔 6종 (택1)",
+    "price": "14,400",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000474283"
+  },
+  {
+    "name": "[텐바이텐] 피넛츠 브라운 라인 플레이트/접시/그릇 (원형)",
+    "price": "8,700",
+    "discount_rate": "27%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000332342"
+  },
+  {
+    "name": "[사브르] 비스트로 커트러리 빈티지 디저트 선물세트 13종(택1)",
+    "price": "38,600",
+    "discount_rate": "25%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000260956"
+  },
+  {
+    "name": "[리본제이]무디타 비화이트 2단 철제 정리 선반",
+    "price": "24,900",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000331642"
+  },
+  {
+    "name": "[울스터위버스] 린넨 키친크로스 티타올 러너 3종 (택1)",
+    "price": "23,400",
+    "discount_rate": "40%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000371618"
+  },
+  {
+    "name": "[로얄포드] 엠버 디너세트 2종 (택1)",
+    "price": "28,900",
+    "discount_rate": "86%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000392423"
+  },
+  {
+    "name": "[무자기] 옥토볼 디저트 잔 2종 택1",
+    "price": "30,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000221905"
+  },
+  {
+    "name": "[쓰임] 마리아꾸르끼 수저세트 2종(택1)",
+    "price": "7,200",
+    "discount_rate": "20%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5071249"
+  },
+  {
+    "name": "[쓰임] 마리벨 커트러리 4p 세트 4종(택1)",
+    "price": "17,500",
+    "discount_rate": "39%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000421718"
+  },
+  {
+    "name": "[풀라이프] 접시 거치대 3칸 2종 (택1)",
+    "price": "11,900",
+    "discount_rate": "25%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000335066"
+  },
+  {
+    "name": "[시라쿠스] 뉴욕 카푸치노잔 4종 택1",
+    "price": "15,300",
+    "discount_rate": "21%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000212479"
+  },
+  {
+    "name": "[쓰임] 블랑 공기 대접 세트 2종 택1",
+    "price": "15,800",
+    "discount_rate": "31%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000235129"
+  },
+  {
+    "name": "[이지앤프리] 이지킵 냉장고정리용기 선반트레이 세트 2종 (택1)",
+    "price": "17,900",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000223904"
+  },
+  {
+    "name": "[푸드허거스] 푸드 세이버 테라코타 4종 세트 (단품) (푸드세이버세트 테라코타 5pcs (단품))",
+    "price": "16,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000430915"
+  },
+  {
+    "name": "[로긴] 파베르 스텐 조리도구 건지개",
+    "price": "9,900",
+    "discount_rate": "34%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000261868"
+  },
+  {
+    "name": "[모나코올리브]망고너츠 철제 와이어 상단장 걸이 랙 2종 (택1)",
+    "price": "6,900",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000439121"
+  },
+  {
+    "name": "[카모메키친] 국내산 프리미엄 릿지 스텐 수저 1+1 세트",
+    "price": "10,900",
+    "discount_rate": "45%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000380054"
+  },
+  {
+    "name": "[오이오이] 글라스 3종 (택1)",
+    "price": "24,900",
+    "discount_rate": "34%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000227706"
+  },
+  {
+    "name": "[Zalto] 잘토 쿠페 크리스탈 클리어 글라스 1P",
+    "price": "67,500",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000649828"
+  },
+  {
+    "name": "[주부디자인] 올스텐 칼 건조랙 (단일품목)",
+    "price": "16,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000642205"
+  },
+  {
+    "name": "[무자기] 타원 물방울 접시 (유광)",
+    "price": "32,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000223921"
+  },
+  {
+    "name": "[루나스토리] 디자인레터스 페이버릿 레터링 머그컵 (택1)",
+    "price": "18,900",
+    "discount_rate": "47%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000256117"
+  },
+  {
+    "name": "[프라우나] 지오메트리카 골드 풀세트 (지오메트리카 full set 13p)",
+    "price": "697,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000353354"
+  },
+  {
+    "name": "[AMT] 주물 인덕션 와이드 웍 20/24/26/28cm(손잡이)",
+    "price": "280,000",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000517882"
+  },
+  {
+    "name": "[JAJU] 자주 쓰는 슬림 가스 버너 2종 (택1)",
+    "price": "66,400",
+    "discount_rate": "5%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000570729"
+  },
+  {
+    "name": "[쓰임] 클래식 원형접시",
+    "price": "29,200",
+    "discount_rate": "18%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5099412"
+  },
+  {
+    "name": "[주부디자인] 스테인리스 접시 정리대 2종(택1)",
+    "price": "13,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "5161869"
+  },
+  {
+    "name": "[클린켄틴] TKWide 대용량 텀블러 1900ml 2종",
+    "price": "63,600",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "916",
+    "id": "1000082443"
+  },
+  {
+    "name": "[생활공작소] BEST 제습제 7종 (택1)",
+    "price": "2,700",
+    "discount_rate": "22%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000584443"
+  },
+  {
+    "name": "[라페어] 여우의 꿈 나염 인견 팬티 세트 5매입 6종 (택1)",
+    "price": "24,600",
+    "discount_rate": "49%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000311855"
+  },
+  {
+    "name": "[포빠페드레띠] 아사이 접이식 다리미판 3종 (택1)",
+    "price": "500,000",
+    "discount_rate": "35%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000331449"
+  },
+  {
+    "name": "[대림바스] 물때 없는 튜브형 PVC 샤워호스 4종(택1)",
+    "price": "11,900",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "5132106"
+  },
+  {
+    "name": "[보솜이] 펀앤플레이 아기물티슈 2종 (택1)",
+    "price": "10,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000071921"
+  },
+  {
+    "name": "[좋은느낌] 오리지널 입는 오버나이트 생리대 2종 (택1)",
+    "price": "4,700",
+    "discount_rate": "24%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000399168"
+  },
+  {
+    "name": "[멜로우스페이스] 디자인매트 노블 120cm 3종",
+    "price": "15,400",
+    "discount_rate": "65%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "5128632"
+  },
+  {
+    "name": "[까사미아]레브 워싱 프릴 스프레드 Q_화이트",
+    "price": "112,000",
+    "discount_rate": "20%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000225028"
+  },
+  {
+    "name": "[보웰] 클래시 고밀도 순면 내츄럴워싱 호텔침구 무봉제선 차렵이불세트 4종 (택1)",
+    "price": "143,300",
+    "discount_rate": "24%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000248931"
+  },
+  {
+    "name": "[더블유드레스룸] 퍼퓸 디퓨저 탈취제 에이프릴코튼 (110gX3개입)",
+    "price": "11,900",
+    "discount_rate": "43%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "5137142"
+  },
+  {
+    "name": "[까사미아]라필리 스톤디퓨저 500g 3종 (택1)",
+    "price": "55,300",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000269874"
+  },
+  {
+    "name": "[세컨스킨] 인견 보정 브라렛 12종 (택1)",
+    "price": "13,900",
+    "discount_rate": "60%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000272710"
+  },
+  {
+    "name": "[카카오프렌즈] 털찐 춘식이의하루 남성 상하의 파자마/잠옷 (단품)",
+    "price": "59,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000473886"
+  },
+  {
+    "name": "[JAJU] 먼지날림이 적은 대나무 휴대용 티슈 (100매 X  3입)",
+    "price": "4,600",
+    "discount_rate": "6%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000605759"
+  },
+  {
+    "name": "[대림바스] 디클린 와이드형 블랙펄 샤워기 (본품)",
+    "price": "20,500",
+    "discount_rate": "17%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000215860"
+  },
+  {
+    "name": "[도플러] 여행용 납작 3단 사각 슬림 우산 3종 (택1)",
+    "price": "63,800",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000279951"
+  },
+  {
+    "name": "[마켓비] JAWAL 원목협탁 WFB19052 대나무",
+    "price": "33,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000093401"
+  },
+  {
+    "name": "[블랑101] 젖병세정제 포밍 3P 기획세트 (젖병세정제 포밍 3개)",
+    "price": "38,000",
+    "discount_rate": "20%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000315701"
+  },
+  {
+    "name": "[오즈키즈] 리치하트 led 여아 운동화 2종 (택1)",
+    "price": "54,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000477865"
+  },
+  {
+    "name": "[유한양행] 유한락스 후레쉬 2L x 4개 ([유한양행]유한락스 후레쉬 2L x 4개)",
+    "price": "19,900",
+    "discount_rate": "37%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000636741"
+  },
+  {
+    "name": "[세실앤세드릭] 빈티지무드 도어 매트 (L) 450*900 3종(택1)",
+    "price": "37,000",
+    "discount_rate": "11%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000246495"
+  },
+  {
+    "name": "[프릴] 맑은식초 주방세제 6입 번들 라임향 본품/리필 (택1)",
+    "price": "25,500",
+    "discount_rate": "55%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000196320"
+  },
+  {
+    "name": "[피지] 디나자임 딥클린 액체세제 본품 2.2L X 2입 2종 (택1)",
+    "price": "25,900",
+    "discount_rate": "14%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000322497"
+  },
+  {
+    "name": "[액츠] 세탁세제 액체 파워젤 일반/드럼 2L 리필 X 6개 2종 (택1)",
+    "price": "32,500",
+    "discount_rate": "27%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000440867"
+  },
+  {
+    "name": "[데코앤모어] 월넛 거울 사각보석함 2종 (택1)",
+    "price": "28,700",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000462056"
+  },
+  {
+    "name": "[카카오프렌즈] 안전벨트 커버 (리틀 어피치)",
+    "price": "11,040",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000378321"
+  },
+  {
+    "name": "[경성꽃집] 극락조",
+    "price": "15,900",
+    "discount_rate": "10%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000030426"
+  },
+  {
+    "name": "[송월] 복받으세용 150g 3장 선물세트 4종 (택1)",
+    "price": "17,500",
+    "discount_rate": "12%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000480827"
+  },
+  {
+    "name": "[스파이더락] 스마트접착 다용도 미니선반 & 비누받침대 세트 (단품)",
+    "price": "16,500",
+    "discount_rate": "24%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000216896"
+  },
+  {
+    "name": "[코디]  2겹 천연펄프 키친타월 (150매 X 4입 X 3팩)",
+    "price": "17,000",
+    "discount_rate": "50%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000211688"
+  },
+  {
+    "name": "[모나코올리브]층층 투명한 다용도 정리대 2종(택1)",
+    "price": "8,900",
+    "discount_rate": "18%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000274749"
+  },
+  {
+    "name": "[홈에드] 투명한 사각 휴지 케이스 (단품)",
+    "price": "10,900",
+    "discount_rate": "39%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000242521"
+  },
+  {
+    "name": "[하우키즈풀] 문구세트",
+    "price": "9,000",
+    "discount_rate": "10%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000205073"
+  },
+  {
+    "name": "[카카오프렌즈] 컬러팝 프렌즈 모나미 플러스펜 3P 세트 (단품)",
+    "price": "3,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000412824"
+  },
+  {
+    "name": "[에르흐스] 오가닉 캐시미어 100% 쿠션 커버 레고 2종 (택1)",
+    "price": "180,000",
+    "discount_rate": "32%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000303538"
+  },
+  {
+    "name": "[마스슬립] 우노 원목 침대프레임 4종 (택1)",
+    "price": "1,350,000",
+    "discount_rate": "12%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000259932"
+  },
+  {
+    "name": "[샤이닝홈] 아밍 큐티판다 모달/극세사 차렵이불 S 2종 (택1)",
+    "price": "87,900",
+    "discount_rate": "39%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000335431"
+  },
+  {
+    "name": "[레이지지] 스테이 롱 파자마 - 올 블랙 2종 (택1)",
+    "price": "41,300",
+    "discount_rate": "30%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000246134"
+  },
+  {
+    "name": "[로고스] 파이어 우드 장작 캐리백",
+    "price": "29,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000067468"
+  },
+  {
+    "name": "[에르흐스] 오가닉 울양말 100% 아일렛 2종 (택1)",
+    "price": "13,900",
+    "discount_rate": "33%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000302956"
+  },
+  {
+    "name": "[농부의 꽃] 블루 미니델피늄 5줄기",
+    "price": "21,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "5155458"
+  },
+  {
+    "name": "[밸런스온] 베타젤 아기베개 (커버 추가증정)",
+    "price": "37,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000023558"
+  },
+  {
+    "name": "[노르딕슬립] 리프레쉬 룸 스프레이 3종 (택1)",
+    "price": "28,000",
+    "discount_rate": "12%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000235938"
+  },
+  {
+    "name": "[폴라리스] A3 / A4 터널형 에어텐트",
+    "price": "1,130,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "918",
+    "id": "1000176888"
+  },
+  {
+    "name": "[블루보틀] 블렌드 원두 4종",
+    "price": "25,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383001",
+    "id": "5052828"
+  },
+  {
+    "name": "[블루보틀] 블렌드 원두 4종",
+    "price": "25,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383002",
+    "id": "5052828"
+  },
+  {
+    "name": "[LAVAZZA] 원두 홀빈 (퀄리타 로사 빈)",
+    "price": "18,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383002",
+    "id": "5134324"
+  },
+  {
+    "name": "[모모스커피] 드립백 7개입 3종",
+    "price": "10,200",
+    "discount_rate": "7%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383003",
+    "id": "5054272"
+  },
+  {
+    "name": "[스타벅스] 캡슐커피 14종 (택1)",
+    "price": "6,890",
+    "discount_rate": "13%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383004",
+    "id": "5038168"
+  },
+  {
+    "name": "[커피빈] 헤이즐넛 라떼 파우치 10개입",
+    "price": "12,330",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383005",
+    "id": "5095960"
+  },
+  {
+    "name": "[폴 바셋] 콜드브루 에스프레소 원액 300mL",
+    "price": "18,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383006",
+    "id": "1000181125"
+  },
+  {
+    "name": "[앤트러사이트] 디카페인 콜드브루 300mL",
+    "price": "17,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383006",
+    "id": "5054122"
+  },
+  {
+    "name": "[TWG] 티백 베스트셀렉션 5종 (택1)",
+    "price": "37,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383007",
+    "id": "5048916"
+  },
+  {
+    "name": "[쌍계명차] 큐브 스페셜 에디션",
+    "price": "17,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383007",
+    "id": "1000443348"
+  },
+  {
+    "name": "[소다미] 하동 매실원액 2종 (500ml/1000ml)",
+    "price": "7,900",
+    "discount_rate": "3%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383008",
+    "id": "5157270"
+  },
+  {
+    "name": "[블루보틀] 화이트 트래블 머그 20oz(591mL)",
+    "price": "43,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383009",
+    "id": "1000336884"
+  },
+  {
+    "name": "[발뮤다] 브루 (K06B)",
+    "price": "679,000",
+    "discount_rate": "12%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383010",
+    "id": "1000210047"
+  },
+  {
+    "name": "[블루보틀] 드리퍼 필터",
+    "price": "4,700",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383011",
+    "id": "5068995"
+  },
+  {
+    "name": "[프라우나] 지오메트리카 골드 커피 & 주전자 세트 (골드 커피&주전자 세트 3(6)p)",
+    "price": "391,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "383011",
+    "id": "1000353347"
+  },
+  {
+    "name": "[KF365] 햇감자 1kg",
+    "price": "3,790",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907001",
+    "id": "5026448"
+  },
+  {
+    "name": "알배기 배추 1봉",
+    "price": "2,990",
+    "discount_rate": "25%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907002",
+    "id": "5027319"
+  },
+  {
+    "name": "한통 양배추",
+    "price": "3,690",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907003",
+    "id": "5053496"
+  },
+  {
+    "name": "[KF365] 다다기오이 3입",
+    "price": "2,990",
+    "discount_rate": "14%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907004",
+    "id": "5054657"
+  },
+  {
+    "name": "[KF365] 햇양파 1.8kg",
+    "price": "3,990",
+    "discount_rate": "13%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907005",
+    "id": "5049920"
+  },
+  {
+    "name": "[KF365] 무농약 국산콩 콩나물 300g",
+    "price": "1,290",
+    "discount_rate": "13%",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907006",
+    "id": "1000120872"
+  },
+  {
+    "name": "믹스 샐러드 4종",
+    "price": "3,190",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907007",
+    "id": "5137167"
+  },
+  {
+    "name": "[원에이커팜] 친환경 GAP 고수 50g",
+    "price": "3,990",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907007",
+    "id": "1000079444"
+  },
+  {
+    "name": "친환경 햇당근 500g",
+    "price": "5,384",
+    "discount_rate": "7%",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907008",
+    "id": "5000070"
+  },
+  {
+    "name": "유기농 다진 브로콜리 90g",
+    "price": "2,960",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "907008",
+    "id": "5062459"
+  },
+  {
+    "name": "[KF365] 당도선별 수박 7kg 이상",
+    "price": "19,900",
+    "discount_rate": "21%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908001",
+    "id": "5026059"
+  },
+  {
+    "name": "[KF365] DOLE 실속 바나나 2종",
+    "price": "3,490",
+    "discount_rate": "12%",
+    "origin": "원산지: 필리핀",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908002",
+    "id": "5031441"
+  },
+  {
+    "name": "냉동 칠레산 블루베리 1kg",
+    "price": "10,900",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908003",
+    "id": "1000338204"
+  },
+  {
+    "name": "HBAF 매일 색다른 먼투썬 하루견과 6주 (20gX42봉)",
+    "price": "35,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품별 기재",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908004",
+    "id": "5045631"
+  },
+  {
+    "name": "[유가원] 유기농 아몬드 크리스피 60g",
+    "price": "4,400",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908004",
+    "id": "5114860"
+  },
+  {
+    "name": "조선향미 쌀 4kg",
+    "price": "26,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908005",
+    "id": "5003169"
+  },
+  {
+    "name": "[청오건강] 유기농 발아 현미",
+    "price": "8,190",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908005",
+    "id": "5043890"
+  },
+  {
+    "name": "[자연담은] 유기농 씻어나온 밀키퀸 현미 2kg",
+    "price": "16,468",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908005",
+    "id": "1000329603"
+  },
+  {
+    "name": "[KF365] 당도선별 수박 7kg 이상",
+    "price": "19,900",
+    "discount_rate": "21%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908006",
+    "id": "5026059"
+  },
+  {
+    "name": "[수미과] 조각 수박 800g",
+    "price": "12,935",
+    "discount_rate": "35%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908007",
+    "id": "1000172759"
+  },
+  {
+    "name": "무농약 마틸다 토마토 1kg",
+    "price": "10,900",
+    "discount_rate": "8%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "908008",
+    "id": "5136653"
+  },
+  {
+    "name": "[KF365] 노르웨이 생연어회 200g (냉장)",
+    "price": "14,800",
+    "discount_rate": "17%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909001",
+    "id": "5138716"
+  },
+  {
+    "name": "[하늬바람] 반건조 민어 260g (냉동)",
+    "price": "9,290",
+    "discount_rate": "7%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909001",
+    "id": "5059070"
+  },
+  {
+    "name": "[KF365] 두툼한 국산 손질오징어 600g (냉동)",
+    "price": "13,800",
+    "discount_rate": "17%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909002",
+    "id": "5159862"
+  },
+  {
+    "name": "[우주] 프리미엄 손질 생새우살 200g (냉동)(26/30사이즈)",
+    "price": "7,450",
+    "discount_rate": "11%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909003",
+    "id": "5054074"
+  },
+  {
+    "name": "[KF365] 완도 전복 4~5마리 500g (특대, 생물)",
+    "price": "20,900",
+    "discount_rate": "27%",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909004",
+    "id": "1000608559"
+  },
+  {
+    "name": "[우주] 국산 주꾸미 500g (생물)",
+    "price": "23,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909004",
+    "id": "5050115"
+  },
+  {
+    "name": "[대천김] 곱창 캔김 30g",
+    "price": "5,100",
+    "discount_rate": "7%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909005",
+    "id": "1000072295"
+  },
+  {
+    "name": "[풀무원] 노을해심 ASC인증 도시락김 16봉",
+    "price": "10,980",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909005",
+    "id": "5145648"
+  },
+  {
+    "name": "[이어수산] 8단계 선별한 볶음용 멸치 300g",
+    "price": "7,990",
+    "discount_rate": "20%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909006",
+    "id": "1000088313"
+  },
+  {
+    "name": "[압구정주꾸미] 주꾸미 볶음 2종 (택1)",
+    "price": "6,500",
+    "discount_rate": "26%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909007",
+    "id": "1000185200"
+  },
+  {
+    "name": "[양포어장] 생아귀찜 세트 (냉장)",
+    "price": "25,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909007",
+    "id": "5045184"
+  },
+  {
+    "name": "[법성포참맛] 프리미엄 영광굴비180g (2마리) (냉동)",
+    "price": "10,100",
+    "discount_rate": "7%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909009",
+    "id": "5045271"
+  },
+  {
+    "name": "[KF365] 두툼한 국산 손질오징어 600g (냉동)",
+    "price": "13,800",
+    "discount_rate": "17%",
+    "origin": "원산지: 국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909010",
+    "id": "5159862"
+  },
+  {
+    "name": "[KF365] 노르웨이 생연어회 200g (냉장)",
+    "price": "14,800",
+    "discount_rate": "17%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909011",
+    "id": "5138716"
+  },
+  {
+    "name": "[연안식당] 알푸짐 알탕",
+    "price": "13,550",
+    "discount_rate": "9%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909012",
+    "id": "5083128"
+  },
+  {
+    "name": "[속초해품] 백명란젓 400g",
+    "price": "13,500",
+    "discount_rate": "18%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909013",
+    "id": "5156667"
+  },
+  {
+    "name": "[연안식당] 부추 꼬막 비빔장",
+    "price": "6,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909014",
+    "id": "5070691"
+  },
+  {
+    "name": "[비비고] 순살 생선구이 3종 (택1)",
+    "price": "3,330",
+    "discount_rate": "33%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "909015",
+    "id": "1000480296"
+  },
+  {
+    "name": "[KF365] 1+ 한우 국거리 300g(냉장)",
+    "price": "11,200",
+    "discount_rate": "24%",
+    "origin": "원산지: 국내산 (한우)",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910001",
+    "id": "5103617"
+  },
+  {
+    "name": "[PPUL] 1++(9) 한우 채끝 스테이크 250g (냉장)",
+    "price": "62,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 국내산(한우)",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910001",
+    "id": "5043078"
+  },
+  {
+    "name": "[이목] 국내산 소고기 부채살 대용량 1.5kg (냉장)",
+    "price": "69,900",
+    "discount_rate": "28%",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910001",
+    "id": "1000630284"
+  },
+  {
+    "name": "[KF365] 한돈 삼겹살 구이용 600g~ (냉장)",
+    "price": "14,946",
+    "discount_rate": "16%",
+    "origin": "원산지: 국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910002",
+    "id": "5056512"
+  },
+  {
+    "name": "[도드람한돈] 등심 채썰기용 500g (냉장)",
+    "price": "9,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지:  국산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910002",
+    "id": "5059789"
+  },
+  {
+    "name": "[KF365] 양념 소불고기 1kg (냉장)",
+    "price": "18,691",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910003",
+    "id": "5081090"
+  },
+  {
+    "name": "[선물세트] 메이필드 낙원 양념 대갈비 세트",
+    "price": "134,000",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910003",
+    "id": "1000350162"
+  },
+  {
+    "name": "[다향오리] 훈제오리 슬라이스 (1입/3입)",
+    "price": "12,310",
+    "discount_rate": "12%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910004",
+    "id": "5155301"
+  },
+  {
+    "name": "[Kurly's] 동물복지 유정란 20구",
+    "price": "7,991",
+    "discount_rate": "20%",
+    "origin": "원산지:  국내산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910005",
+    "id": "5029850"
+  },
+  {
+    "name": "[브룩클린688] 호주산 목초육 치마살 구이용 300g (냉장)",
+    "price": "12,990",
+    "discount_rate": "21%",
+    "origin": "원산지: 호주산",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910007",
+    "id": "5055948"
+  },
+  {
+    "name": "[Kim's Butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+    "price": "11,890",
+    "discount_rate": "30%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910009",
+    "id": "1000128745"
+  },
+  {
+    "name": "[한끼통살] 소스 닭가슴살 10종 (1입/4입) (택1)",
+    "price": "2,990",
+    "discount_rate": "8%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910010",
+    "id": "1000358249"
+  },
+  {
+    "name": "[조선호텔] 떡갈비 345g",
+    "price": "9,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910011",
+    "id": "1000261454"
+  },
+  {
+    "name": "[KF365] 통통한 그릴 비엔나 소시지 700g",
+    "price": "8,500",
+    "discount_rate": "22%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910012",
+    "id": "1000170410"
+  },
+  {
+    "name": "[맥스봉] 숯불구이맛 핫바 350g (70g x 5입)",
+    "price": "8,682",
+    "discount_rate": "13%",
+    "origin": "원산지 정보 없음",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "910012",
+    "id": "1000621036"
+  },
+  {
+    "name": "[스윗밸런스] 오늘의 샐러드 10종 (리뉴얼) (택1)",
+    "price": "4,130",
+    "discount_rate": "30%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912001",
+    "id": "5066426"
+  },
+  {
+    "name": "[Picard] 올리브오일을 더한 으깬 감자",
+    "price": "8,600",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912001",
+    "id": "1000284177"
+  },
+  {
+    "name": "[그래놀라 하우스] 그래놀라 5종 (택1) ",
+    "price": "13,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912002",
+    "id": "5063596"
+  },
+  {
+    "name": "[맘마밀] 안심이유식 퓨레 6개월 3종 (택1)",
+    "price": "2,385",
+    "discount_rate": "11%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912002",
+    "id": "1000423865"
+  },
+  {
+    "name": "[햇반/쿡반] 노릇노릇 주먹밥 500g 8종 (택1)",
+    "price": "5,980",
+    "discount_rate": "33%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912003",
+    "id": "1000185462"
+  },
+  {
+    "name": "[어리틀빗] 웜그레인 샐러드 4종 (택1)",
+    "price": "6,700",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912003",
+    "id": "1000243875"
+  },
+  {
+    "name": "[오뚜기] 컵밥_옛날잡채덮밥",
+    "price": "3,808",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912003",
+    "id": "1000358338"
+  },
+  {
+    "name": "[온더고] 싱카이 삼선짜장면 300g",
+    "price": "5,500",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912004",
+    "id": "1000650505"
+  },
+  {
+    "name": "[황생가] 육개장 칼국수",
+    "price": "10,700",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912004",
+    "id": "1000117666"
+  },
+  {
+    "name": "[풀무원] 과일장&들기름 비빔면 2종 (택1)",
+    "price": "6,980",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912004",
+    "id": "1000179989"
+  },
+  {
+    "name": "[올마레] 춘천 국물 닭갈비 떡볶이",
+    "price": "13,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912005",
+    "id": "5050290"
+  },
+  {
+    "name": "[제이키친] 떡볶이 2종",
+    "price": "6,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912005",
+    "id": "5009421"
+  },
+  {
+    "name": "[성수동 분식] 떡강정",
+    "price": "5,310",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912005",
+    "id": "1000632689"
+  },
+  {
+    "name": "[남향푸드또띠아] 간편 브리또 15종 2개입 (택1)",
+    "price": "5,940",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912008",
+    "id": "1000127954"
+  },
+  {
+    "name": "[Chai797] 부추하가우",
+    "price": "8,980",
+    "discount_rate": "17%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912008",
+    "id": "1000455796"
+  },
+  {
+    "name": "[네니아] 군만두",
+    "price": "13,500",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912008",
+    "id": "5003127"
+  },
+  {
+    "name": "[온더고] 싱카이 삼선짜장면 300g",
+    "price": "5,500",
+    "discount_rate": "15%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912011",
+    "id": "1000650505"
+  },
+  {
+    "name": "[먹쉬돈나] 즉석 치즈 떡볶이 (매운맛)",
+    "price": "7,110",
+    "discount_rate": "10%",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912011",
+    "id": "5110088"
+  },
+  {
+    "name": "[니시무라멘] 교카이 파이탄 라멘",
+    "price": "8,900",
+    "discount_rate": "할인 정보 없음",
+    "origin": "원산지: 상품설명/상세정보 참조",
+    "description": "설명 정보 없음",
+    "additional_info": {},
+    "category": "912011",
+    "id": "1000538778"
+  }
+]

@@ -1,11 +1,14 @@
 
+## SQLite DB 생성 및 데이터 저장
+
+import os
 import quandl
 import pandas as pd
 from sqlalchemy import create_engine
 from datetime import datetime, timedelta
 
-# Quandl API 키 설정 (실제 키로 교체하세요)
-quandl.ApiConfig.api_key = "YOUR_QUANDL_API_KEY"
+# Quandl API 키 설정 (환경 변수에서 가져오기)
+quandl.ApiConfig.api_key = os.getenv('QUANDL_API_KEY')
 
 # SQLite 데이터베이스 엔진 생성
 engine = create_engine('sqlite:///stock_data.db')
@@ -29,7 +32,10 @@ def save_to_database(data, symbol):
         print(f"데이터베이스 저장 오류: {e}")
 
 def main():
-    # 데이터를 수집할 주식 심볼 리스트
+    if not quandl.ApiConfig.api_key:
+        print("QUANDL_API_KEY 환경 변수를 설정해주세요.")
+        return
+
     symbols = ['AAPL', 'GOOGL', 'MSFT']  # 원하는 주식 심볼로 변경하세요
     
     end_date = datetime.now().strftime('%Y-%m-%d')
