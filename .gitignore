@@ -8,7 +8,7 @@
 # # 가상 환경
 # venv/
 # env/
-# .env
+ .env
 
 # # IDE 설정
 # .vscode/
