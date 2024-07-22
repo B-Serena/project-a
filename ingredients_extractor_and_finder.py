@@ -49,13 +49,18 @@ def extract_ingredients(retry_attempts: int = 3, retry_delay: int = 5) -> List[s
     for attempt in range(retry_attempts):
         try:
             response: ChatCompletion = client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "당신은 레시피에서 재료를 추출하는 전문가입니다."},
                     {"role": "user", "content": prompt}
                 ]
             )
-            result = json.loads(response.choices[0].message.content)
+            print(response)
+            text = response.choices[0].message.content
+            if text.startswith('```json\n'):
+                text = text[8:-4]
+            # result = json.loads(response.choices[0].message.content)
+            result = json.loads(text)
             return result['ingredients']
         except (RateLimitError, APIError, OpenAIError) as e:
             if attempt < retry_attempts - 1:
@@ -64,6 +69,9 @@ def extract_ingredients(retry_attempts: int = 3, retry_delay: int = 5) -> List[s
             else:
                 print(f"Error after {retry_attempts} attempts: {e}")
                 raise e
+            
+        except Exception as e:
+            print(e)
 
 def search_product_in_pinecone(ingredient: str) -> Optional[Dict[str, str]]:
     try:
