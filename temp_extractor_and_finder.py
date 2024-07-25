@@ -9,14 +9,22 @@ from dotenv import load_dotenv
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
+
+# .env 파일에서 환경 변수 로드 (만약 .env 파일을 사용한다면)
 load_dotenv()
 
+# OpenAI 클라이언트 설정
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# Pinecone 설정
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-index = pc.Index("kurly-products")
+index = pc.Index("kurly-products") 
+
+# ~~ 사용할 모델 설정
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-EXCLUDED_INGREDIENTS = {'물', '소금', '후추'}
+# 검색에서 제외할 재료
+EXCLUDED_INGREDIENTS = {'물'}  # 제외할 재료들의 집합
 
 def extract_ingredients(recipe_text: str) -> List[str]:
     prompt = f"""
@@ -44,7 +52,15 @@ def extract_ingredients(recipe_text: str) -> List[str]:
         ]
     )
 
+    # # (option) gpt-4o-mini 의 response format 고려
+    # text = response.choices[0].message.content
+    # if text.startswith('```json\n'):
+    #     text = text[8:-4]
+    # result = json.loads(text)
+
+    # # gpt-3.5-turbo 의 response format 고려
     result = json.loads(response.choices[0].message.content)
+
     return [ingredient for ingredient in result['ingredients'] if ingredient['name'].lower() not in EXCLUDED_INGREDIENTS]
 
 def get_embedding(text: str) -> List[float]:
@@ -59,12 +75,17 @@ def search_products_in_pinecone(ingredient: Dict[str, str], top_k: int = 5) -> L
     )
     
     if not results['matches']:
+        print(f"No matches found for ingredient: {ingredient['name']}")
         return []
     
     filtered_matches = [
         match for match in results['matches']
         if ingredient['name'].lower() in match['metadata'].get('name', '').lower()
     ]
+    
+    if not filtered_matches:
+        print(f"No filtered matches found for ingredient: {ingredient['name']}")
+        return []
     
     # 코사인 유사도 계산
     product_embeddings = [match['values'] for match in filtered_matches]
@@ -111,21 +132,30 @@ def process_recipe(recipe_text: str) -> List[Dict[str, str]]:
     ingredients = extract_ingredients(recipe_text)
     results = []
     for ingredient in ingredients:
-        products = search_products_in_pinecone(ingredient)
-        if products:
-            recommendation = generate_product_recommendations(ingredient, products)
-            results.append({
-                'ingredient': ingredient['name'],
-                'description': ingredient['description'],
-                'recommended_products': products,
-                'recommendation': recommendation
-            })
-        else:
+        try:
+            products = search_products_in_pinecone(ingredient)
+            if products:
+                recommendation = generate_product_recommendations(ingredient, products)
+                results.append({
+                    'ingredient': ingredient['name'],
+                    'description': ingredient['description'],
+                    'recommended_products': products,
+                    'recommendation': recommendation
+                })
+            else:
+                results.append({
+                    'ingredient': ingredient['name'],
+                    'description': ingredient['description'],
+                    'recommended_products': [],
+                    'recommendation': '해당 재료에 맞는 상품을 찾을 수 없습니다.'
+                })
+        except Exception as e:
+            print(f"Error processing ingredient {ingredient['name']}: {str(e)}")
             results.append({
                 'ingredient': ingredient['name'],
                 'description': ingredient['description'],
                 'recommended_products': [],
-                'recommendation': '해당 재료에 맞는 상품을 찾을 수 없습니다.'
+                'recommendation': '처리 중 오류가 발생했습니다.'
             })
     return results
 
