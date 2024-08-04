@@ -50,7 +50,7 @@ def upload_to_pinecone(data):
     # 문장 임베딩 모델 로드
     model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    # import shutil
+    # import shutil 
     # # 기존 캐시 삭제
     # cache_dir = os.path.expanduser('~/.cache/torch/sentence_transformers')
     # if os.path.exists(cache_dir):

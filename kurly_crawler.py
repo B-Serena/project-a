@@ -26,8 +26,15 @@ def crawl_product_detail(driver, product_url):
             EC.presence_of_element_located((By.CSS_SELECTOR, ".css-79gmk3.ezpe9l11"))
         )
         
-        name = driver.find_element(By.CSS_SELECTOR, ".css-79gmk3.ezpe9l11").text
-        price = driver.find_element(By.CSS_SELECTOR, ".css-9pf1ze.e1q8tigr2").text
+        try:
+            name = driver.find_element(By.CSS_SELECTOR, ".css-79gmk3.ezpe9l11").text
+        except NoSuchElementException:
+            name = "이름 정보 없음"
+
+        try:
+            price = driver.find_element(By.CSS_SELECTOR, ".css-9pf1ze.e1q8tigr2").text
+        except NoSuchElementException:
+            price = "가격 정보 없음"
         
         try:
             discount_rate = driver.find_element(By.CSS_SELECTOR, ".css-5nirzt.e1q8tigr3").text
@@ -40,9 +47,19 @@ def crawl_product_detail(driver, product_url):
             origin = "원산지 정보 없음"
         
         try:
-            description = driver.find_element(By.CSS_SELECTOR, "[data-testid='product-description']").text
+            description = driver.find_element(By.CSS_SELECTOR, ".css-1lyi66c.goods_wrap.goods_intro.context.words")
         except NoSuchElementException:
             description = "설명 정보 없음"
+        
+        try:
+            weight = driver.find_element(By.CSS_SELECTOR, ".css-c02hqi.e6qx2kx1").text
+        except NoSuchElementException:
+            weight = "중량/용량 정보 없음"  
+
+        try:
+            delivery = driver.find_element(By.CSS_SELECTOR, ".css-c02hqi.e6qx2kx1").text
+        except NoSuchElementException:
+            delivery = "배송 정보 없음"
         
         additional_info = {}
         try:
@@ -61,7 +78,9 @@ def crawl_product_detail(driver, product_url):
             "discount_rate": discount_rate,
             "origin": origin,
             "description": description,
-            "additional_info": additional_info
+            "additional_info": additional_info,
+            "weight": weight,
+            "delivery": delivery
         }
     
     return retry_on_exception(_crawl)

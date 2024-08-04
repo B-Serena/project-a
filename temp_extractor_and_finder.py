@@ -134,6 +134,7 @@ def process_recipe(recipe_text: str) -> List[Dict[str, str]]:
     for ingredient in ingredients:
         try:
             products = search_products_in_pinecone(ingredient)
+            print(products)
             if products:
                 recommendation = generate_product_recommendations(ingredient, products)
                 results.append({
