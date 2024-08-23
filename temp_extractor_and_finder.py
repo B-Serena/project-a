@@ -18,7 +18,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Pinecone 설정
 pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-index = pc.Index("kurly-products") 
+index = pc.Index("kurlyproducts-klue-roberta-base") 
 
 # ~~ 사용할 모델 설정
 model = SentenceTransformer('all-MiniLM-L6-v2')

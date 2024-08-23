@@ -23,64 +23,19 @@ def crawl_product_detail(driver, product_url):
     def _crawl():
         driver.get(product_url)
         WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, ".css-79gmk3.ezpe9l11"))
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
         
-        try:
-            name = driver.find_element(By.CSS_SELECTOR, ".css-79gmk3.ezpe9l11").text
-        except NoSuchElementException:
-            name = "이름 정보 없음"
-
-        try:
-            price = driver.find_element(By.CSS_SELECTOR, ".css-9pf1ze.e1q8tigr2").text
-        except NoSuchElementException:
-            price = "가격 정보 없음"
+        # 페이지의 모든 텍스트 추출
+        all_text = driver.find_element(By.TAG_NAME, "body").text
         
-        try:
-            discount_rate = driver.find_element(By.CSS_SELECTOR, ".css-5nirzt.e1q8tigr3").text
-        except NoSuchElementException:
-            discount_rate = "할인 정보 없음"
-
-        try:
-            origin = driver.find_element(By.CSS_SELECTOR, ".css-1jali72.e17iylht2").text
-        except NoSuchElementException:
-            origin = "원산지 정보 없음"
-        
-        try:
-            description = driver.find_element(By.CSS_SELECTOR, ".css-1lyi66c.goods_wrap.goods_intro.context.words")
-        except NoSuchElementException:
-            description = "설명 정보 없음"
-        
-        try:
-            weight = driver.find_element(By.CSS_SELECTOR, ".css-c02hqi.e6qx2kx1").text
-        except NoSuchElementException:
-            weight = "중량/용량 정보 없음"  
-
-        try:
-            delivery = driver.find_element(By.CSS_SELECTOR, ".css-c02hqi.e6qx2kx1").text
-        except NoSuchElementException:
-            delivery = "배송 정보 없음"
-        
-        additional_info = {}
-        try:
-            info_table = driver.find_element(By.CSS_SELECTOR, ".css-1t5l6f")
-            rows = info_table.find_elements(By.CSS_SELECTOR, "tr")
-            for row in rows:
-                key = row.find_element(By.CSS_SELECTOR, "th").text
-                value = row.find_element(By.CSS_SELECTOR, "td").text
-                additional_info[key] = value
-        except NoSuchElementException:
-            pass
+        # 제품 ID 추출 (URL에서)
+        product_id = product_url.split("/")[-1]
         
         return {
-            "name": name,
-            "price": price,
-            "discount_rate": discount_rate,
-            "origin": origin,
-            "description": description,
-            "additional_info": additional_info,
-            "weight": weight,
-            "delivery": delivery
+            "id": product_id,
+            "url": product_url,
+            "all_text": all_text
         }
     
     return retry_on_exception(_crawl)
@@ -115,7 +70,6 @@ def crawl_kurly():
 
     all_data = []
 
-    # 진행 상황 불러오기
     progress = load_progress()
     start_index = numbers.index(progress['last_category']) if progress else 0
     start_page = progress['last_page'] if progress else 1
@@ -141,22 +95,18 @@ def crawl_kurly():
                 for product in products:
                     try:
                         product_link = product.find_element(By.CSS_SELECTOR, "a").get_attribute("href")
-                        product_id = product_link.split("/")[-1]
                         product_data = crawl_product_detail(driver, product_link)
                         product_data["category"] = number
-                        product_data["id"] = product_id
                         all_data.append(product_data)
                     except Exception as e:
                         print(f"상품 정보 크롤링 중 오류 발생: {e}")
                         continue
 
                 page += 1
-                time.sleep(random.uniform(1, 3))  # 무작위 대기 시간 추가
+                time.sleep(random.uniform(1, 3))
 
-                # 진행 상황 저장
                 save_progress(number, page)
                 
-                # 주기적으로 데이터 저장 (예: 100개마다)
                 if len(all_data) % 100 == 0:
                     save_data(all_data)
 
@@ -169,18 +119,15 @@ def crawl_kurly():
 
         driver.quit()
 
-    # 최종 데이터 저장
     save_data(all_data)
     return all_data
 
-# 크롤링 실행
 crawled_data = crawl_kurly()
 print(f"총 {len(crawled_data)}개의 상품 정보를 크롤링했습니다.")
 
-# 크롤링한 데이터 샘플 출력 (처음 5개 항목)
 for product in crawled_data[:5]:
-    print(product)
-
-
-
-
+    print(f"ID: {product['id']}")
+    print(f"Category: {product['category']}")
+    print(f"URL: {product['url']}")
+    print(f"Text (first 200 characters): {product['all_text'][:200]}...")
+    print("-" * 50)
